@@ -1,0 +1,52 @@
+webpackHotUpdate("static\\development\\pages\\index.js",{
+
+/***/ "./pages/components/Cards.js":
+/*!***********************************!*\
+  !*** ./pages/components/Cards.js ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Cards; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _styles_main_module_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/main.module.css */ "./pages/styles/main.module.css");
+/* harmony import */ var _styles_main_module_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_main_module_css__WEBPACK_IMPORTED_MODULE_1__);
+var _jsxFileName = "C:\\Users\\\u042F\\OneDrive\\Desktop\\JS_hillel\\blackJack\\blackjack\\pages\\components\\Cards.js";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+function Cards() {
+  var _this = this;
+
+  var cards = ["/tuz-cherva.jpg", "/tuz-trefa.jpg", "/tuz-bubna.jpg", "/tuz-pika.png", "/king-cherva.png", "/king-trefa.jpg", "/king-bubna.jpg", "/king-pika.jpg", "/queen-pika.jpg", "/queen-cherva.jpg", "/queen-trefa.jpg", "/queen-bubna.jpg", "/jack-pika.jpg", "/jack-cherva.jpg", "/jack-trefa.jpg", "/jack-bubna.jpg", "/10-pik.png", "/10-cherva.png", "/10-bubna.png", "/10-trefa.png", "/9-buben.png", "/9-cherva.png", "/9-pika.jpg", "/9-trefa.jpg", "/8-pik.png", "/8-trefa.jpg", "/8-cherva.jpg", "/8-bubna.png", "/7-trefa.png", "/7-pika.png", "/7-cherva.png", "/7-bubna.jpg"];
+  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, cards.map(function (card, index) {
+    return __jsx("div", {
+      className: _styles_main_module_css__WEBPACK_IMPORTED_MODULE_1___default.a.card,
+      key: index,
+      __self: _this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 43,
+        columnNumber: 21
+      }
+    }, __jsx("img", {
+      src: card,
+      className: _styles_main_module_css__WEBPACK_IMPORTED_MODULE_1___default.a.img,
+      alt: "card",
+      __self: _this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 44,
+        columnNumber: 25
+      }
+    }));
+  }));
+}
+
+/***/ })
+
+})
+//# sourceMappingURL=index.js.c1295775a86540876f7d.hot-update.js.map

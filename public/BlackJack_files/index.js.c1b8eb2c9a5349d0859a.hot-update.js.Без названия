@@ -1,0 +1,27 @@
+webpackHotUpdate("static\\development\\pages\\index.js",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./pages/styles/main.module.css":
+/*!*****************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!./node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./pages/styles/main.module.css ***!
+  \*****************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(true);
+// Module
+exports.push([module.i, ".main_container__3Erv3 {\r\n  box-sizing: border-box;\r\n  height: 100%;\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n\r\n.main_wrapper__2Gvjs {\r\n  display: flex;\r\n  flex-direction: column;\r\n  min-height: 100vh;\r\n}\r\n\r\n.main_main__15-hN {\r\n  flex: 1 0 auto;\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  flex-direction: column;\r\n}\r\n\r\n.main_table__2vK6H {\r\n  width: 90%;\r\n  height: 900px;\r\n  background-color: green;\r\n  border-radius: 200px;\r\n  display: flex;\r\n  flex-direction: row;\r\n  flex-wrap: wrap;\r\n  padding: 50px;\r\n}\r\n\r\n.main_footer__1PQJI {\r\n  flex: 0 0 auto;\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  padding-bottom: 20px;\r\n}\r\n\r\n.main_card__1jOBA {\r\n  width: 50px;\r\n  height: 75px;\r\n  margin: 10px;\r\n}\r\n\r\n.main_img__1E-M- {\r\n  width: 100%;\r\n  height: 100%;\r\n}", "",{"version":3,"sources":["C:/Users/Я/OneDrive/Desktop/JS_hillel/blackJack/blackjack/pages/styles/main.module.css"],"names":[],"mappings":"AAAA;EACE,sBAAsB;EACtB,YAAY;EACZ,SAAS;EACT,UAAU;AACZ;;AAEA;EACE,aAAa;EACb,sBAAsB;EACtB,iBAAiB;AACnB;;AAEA;EACE,cAAc;EACd,aAAa;EACb,uBAAuB;EACvB,mBAAmB;EACnB,sBAAsB;AACxB;;AAEA;EACE,UAAU;EACV,aAAa;EACb,uBAAuB;EACvB,oBAAoB;EACpB,aAAa;EACb,mBAAmB;EACnB,eAAe;EACf,aAAa;AACf;;AAEA;EACE,cAAc;EACd,aAAa;EACb,uBAAuB;EACvB,mBAAmB;EACnB,oBAAoB;AACtB;;AAEA;EACE,WAAW;EACX,YAAY;EACZ,YAAY;AACd;;AAEA;EACE,WAAW;EACX,YAAY;AACd","file":"main.module.css","sourcesContent":[".container {\r\n  box-sizing: border-box;\r\n  height: 100%;\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n\r\n.wrapper {\r\n  display: flex;\r\n  flex-direction: column;\r\n  min-height: 100vh;\r\n}\r\n\r\n.main {\r\n  flex: 1 0 auto;\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  flex-direction: column;\r\n}\r\n\r\n.table {\r\n  width: 90%;\r\n  height: 900px;\r\n  background-color: green;\r\n  border-radius: 200px;\r\n  display: flex;\r\n  flex-direction: row;\r\n  flex-wrap: wrap;\r\n  padding: 50px;\r\n}\r\n\r\n.footer {\r\n  flex: 0 0 auto;\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  padding-bottom: 20px;\r\n}\r\n\r\n.card {\r\n  width: 50px;\r\n  height: 75px;\r\n  margin: 10px;\r\n}\r\n\r\n.img {\r\n  width: 100%;\r\n  height: 100%;\r\n}"]}]);
+// Exports
+exports.locals = {
+	"container": "main_container__3Erv3",
+	"wrapper": "main_wrapper__2Gvjs",
+	"main": "main_main__15-hN",
+	"table": "main_table__2vK6H",
+	"footer": "main_footer__1PQJI",
+	"card": "main_card__1jOBA",
+	"img": "main_img__1E-M-"
+};
+
+/***/ })
+
+})
+//# sourceMappingURL=index.js.c1b8eb2c9a5349d0859a.hot-update.js.map
